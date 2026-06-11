@@ -55,7 +55,7 @@ export default function About() {
               Afro Caribbean Nation began as a dream — to create a space where the African diaspora and Caribbean communities could come together not just to listen, but to truly celebrate who we are.
             </p>
             <p>
-              Born in the heart of Kiev and with roots stretching from Lagos to Kingston, London to Toronto, ACN is a ralying point for every soul that has ever moved to the rhythm of the drum.
+              Born in the heart of kyiv and with roots stretching from Lagos to Kingston, London to Toronto, ACN is a ralying point for every soul that has ever moved to the rhythm of the drum.
             </p>
             <p>
               We are the flower that blooms across continents. Green for our land. Cyan for our waters. Yellow for our sun. We are Afro Caribbean Nation.

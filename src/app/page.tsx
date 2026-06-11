@@ -6,6 +6,7 @@ import Tickets from "@/components/Tickets";
 import Experience from "@/components/Experience";
 import Gallery from "@/components/Gallery";
 import About from "@/components/About";
+import Vendor from "@/components/Vendors";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
       <Experience />
       <Gallery />
       <About />
+      <Vendor/>
       <Footer />
     </main>
   );

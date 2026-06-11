@@ -13,7 +13,7 @@ const links = [
   { label: "FAQ", href: "#" },
   { label: "Accessibility", href: "#" },
   { label: "Press", href: "#" },
-  { label: "Vendors", href: "#" },
+  { label: "Vendors", href: "#vendors" },
   { label: "Volunteering", href: "#" },
   { label: "Contact", href: "#" },
 ];
@@ -47,7 +47,7 @@ export default function Footer() {
               One Continent. One Rhythm. One Nation.
             </p>
             <p className="text-xs opacity-40 tracking-widest uppercase" style={{ fontFamily: "var(--font-accent)" }}>
-              August 15–17, 2026
+              June 27 ,July 25, August 29, 2026
             </p>
           </div>
 

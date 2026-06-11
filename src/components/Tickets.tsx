@@ -6,7 +6,7 @@ const tiers = [
   {
     name: "Early Birds",
     price: "650 UAH",
-    usd: "~$28",
+    usd: "~$15",
     duration: "1 Day",
     color: "#2ab83e",
     glow: "rgba(42,184,62,0.4)",
@@ -23,7 +23,7 @@ const tiers = [
   {
     name: "At the Gate",
     price: "800 UAH",
-    usd: "~$75",
+    usd: "~$19",
     duration: "1 Day",
     color: "#00e5d1",
     glow: "rgba(0,229,209,0.4)",
@@ -37,14 +37,14 @@ const tiers = [
     featured: true,
   },
   {
-    name: "Platinum",
-    price: "1,950,000 UAT",
-    usd: "~$220",
-    duration: "3 Day",
+    name: "Table",
+    price: "9,000 UAT",
+    usd: "~$210",
+    duration: "1 Day",
     color: "#d4a017",
     glow: "rgba(212,160,23,0.4)",
     perks: [
-      "3-day Platinum access",
+      "1-day Platinum access",
       "Backstage lounge access",
       "Guaranteed artist meet & greet",
       "Festival photography session",
@@ -258,7 +258,7 @@ export default function Tickets() {
           </div>
 
           <p className="text-center mt-10 text-xs opacity-30" style={{ fontFamily: "var(--font-accent)" }}>
-            Group bookings (10+): contact tickets@afrocaribbeanation.com · All sales final · Age 16+
+            Group bookings (10+): contact info@afrocaribbeanation.com · All sales final · Age 16+
           </p>
         </div>
       </section>

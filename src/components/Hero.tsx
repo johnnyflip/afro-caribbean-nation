@@ -134,7 +134,7 @@ export default function Hero() {
             transition: "opacity 0.8s ease 0.3s, transform 0.8s ease 0.3s",
           }}
         >
-          ★ Kiev • Kingston • Lagos • London ★
+          ★ kyiv • Kingston • Lagos • London ★
         </p>
 
         {/* Logo */}
