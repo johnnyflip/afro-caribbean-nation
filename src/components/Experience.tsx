@@ -122,7 +122,7 @@ export default function Experience() {
         <div className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-6">
           {[
             { num: "50+", label: "Artists" },
-            { num: "1", label: "Stage1" },
+            { num: "1", label: "Stage" },
             { num: "3", label: "Days" },
             { num: "20K+", label: "Expected Attendees" },
           ].map((stat) => (
