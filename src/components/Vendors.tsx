@@ -23,10 +23,10 @@ const vendors = [
     glow: "rgba(74,74,74,0.4)",
   },
   {
-    name: "Lolidee's Cuisine",
+    name: "Lolidee\u2019s Cuisine",
     logo: "/vendor-lolidee.jpg",
     category: "Nigerian Cuisine",
-    description: "Fresh, fast and tasty since 2018. Lolidee's brings authentic Nigerian flavours cooked with love to every plate.",
+    description: "Fresh, fast and tasty since 2018. Lolidee\u2019s brings authentic Nigerian flavours cooked with love to every plate.",
     specialty: "Nigerian · Fast Food · Local Delicacies",
     color: "#f5a800",
     glow: "rgba(245,168,0,0.4)",
