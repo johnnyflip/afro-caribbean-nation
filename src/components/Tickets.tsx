@@ -7,6 +7,7 @@ const tiers = [
     name: "Early Birds",
     price: "650 UAH",
     usd: "~$15",
+    person:"Per person",
     duration: "1 Day",
     color: "#2ab83e",
     glow: "rgba(42,184,62,0.4)",
@@ -24,6 +25,7 @@ const tiers = [
     name: "At the Gate",
     price: "800 UAH",
     usd: "~$19",
+    person:"Per person",
     duration: "1 Day",
     color: "#00e5d1",
     glow: "rgba(0,229,209,0.4)",
@@ -38,8 +40,9 @@ const tiers = [
   },
   {
     name: "Table",
-    price: "9,000 UAT",
+    price: "9,000 UAH",
     usd: "~$210",
+    person:"4 Persons per Table",
     duration: "1 Day",
     color: "#d4a017",
     glow: "rgba(212,160,23,0.4)",
@@ -225,7 +228,7 @@ export default function Tickets() {
                     {tier.price}
                   </p>
                   <p className="text-xs opacity-40 mt-1" style={{ fontFamily: "var(--font-accent)" }}>
-                    {tier.usd} USD · Per person · {tier.duration}
+                    {tier.usd} USD · {tier.person} · {tier.duration}
                   </p>
                 </div>
 

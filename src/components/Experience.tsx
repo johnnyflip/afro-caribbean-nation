@@ -3,7 +3,7 @@
 const features = [
   {
     icon: "🎵",
-    title: "5 Stages",
+    title: "5 in 1 Stage",
     desc: "Main Stage, Heritage Stage, Diaspora Stage, Roots Stage, and the intimate Acoustic Garden — every genre, every generation.",
     color: "#2ab83e",
   },
